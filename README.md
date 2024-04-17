@@ -1,1 +1,3 @@
 # langchain
+
+i used a customized llm model to create this project the llm model which i used is llama2 which was created by meta...
